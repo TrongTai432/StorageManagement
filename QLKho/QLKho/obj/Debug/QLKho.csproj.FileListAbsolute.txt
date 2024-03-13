@@ -1,0 +1,42 @@
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\bin\Debug\QLKho.exe.config
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\bin\Debug\QLKho.exe
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\bin\Debug\QLKho.pdb
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.csproj.AssemblyReference.cache
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.Properties.Resources.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.csproj.GenerateResource.cache
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.csproj.CoreCompileInputs.cache
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.exe
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.pdb
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmPhieuXuat.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmChiTietPhieuXuat.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmThemMoiPhieuXuat.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmPhieuNhap.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmThemMoiPhieuNhap.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmSuaPhieuNhap.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmChiTietPhieuNhap.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmHangHoa.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmThemMoiHangHoa.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmNhaCungCap.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmThemMoiNhaCC.resources
+C:\Users\dmx\OneDrive\Desktop\WindowForm\QLKho\QLKho\obj\Debug\QLKho.frmMain.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\bin\Debug\QLKho.exe.config
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\bin\Debug\QLKho.exe
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\bin\Debug\QLKho.pdb
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmChiTietPhieuNhap.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmHangHoa.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmChiTietPhieuXuat.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmMain.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmPhieuNhap.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmPhieuXuat.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmSuaPhieuNhap.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmThemMoiHangHoa.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmThemMoiNhaCC.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmThemMoiPhieuNhap.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.frmThemMoiPhieuXuat.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.Properties.Resources.resources
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.exe
+C:\Users\Admin\Desktop\Thực tập\QLKho (1)\QLKho\obj\Debug\QLKho.pdb
